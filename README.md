@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f9710604-af34-412d-a501-416659f0b1da)
 # Telegram Бот на Go
 
 Простой Telegram бот, который отвечает "hello" на любое сообщение.
