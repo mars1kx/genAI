@@ -83,3 +83,4 @@ cd utils && go test -v
 - [gotgbot/v2](https://github.com/PaulSonOfLars/gotgbot) - библиотека для работы с Telegram Bot API
 - [godotenv](https://github.com/joho/godotenv) - для загрузки переменных окружения из .env файла
 - [openai-go](https://github.com/openai/openai-go) - официальный клиент OpenAI API для Go
+.
